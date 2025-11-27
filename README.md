@@ -158,7 +158,7 @@ Ideas for diagrams, scripts, automation, and improved configurations are encoura
 
 # 📝 7. License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **GNU 3.0 Licence**.
 
 ---
 
