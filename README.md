@@ -144,8 +144,8 @@ pfSense → Diagnostics → Backup & Restore → Restore Config
 
 # 👤 5. Author
 
-**Youssef Nahdi**  
-ISET Nabeul – 2025/2026  
+**Youssef Nahdi (sonofsparda)**
+ISET Nabeul – 2025/2026
 School WAN Architecture Project  
 
 ---
