@@ -1,0 +1,4 @@
+Required image to run this topology:
+c7200-adventerprisek9-mz.124-15.T13.bin
+
+Make sure you get it
