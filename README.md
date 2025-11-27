@@ -20,7 +20,6 @@ This repository contains all configuration files, documentation, and topology re
 ## 📂 Repository Structure
 - /configs-cisco → All router configs (CE / PE / Core MPLS)
 - /pfsense → pfSense backup (XML)
-- /screenshots → Screenshots for documentation
 - /documentation → Final report (PDF)
 - /gns3-project → Complete GNS3 topology folder
 
