@@ -1,4 +1,14 @@
 # Secure-Inter-site-Network
+
+![Cisco](https://img.shields.io/badge/Cisco-IOS%20Router-1a73e8?style=for-the-badge&logo=cisco)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-283593?style=for-the-badge&logo=pfsense)
+![GNS3](https://img.shields.io/badge/GNS3-Network%20Simulation-FF6F00?style=for-the-badge&logo=gns3)
+![MPLS](https://img.shields.io/badge/MPLS-L3VPN-6f42c1?style=for-the-badge)
+![IPsec](https://img.shields.io/badge/IPsec-GRE%20Tunnel-198754?style=for-the-badge)
+![BGP](https://img.shields.io/badge/BGP-MP--BGP-e83e8c?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-dd4814?style=for-the-badge&logo=ubuntu)
+
+
 Enterprise WAN project implementing a full MPLS L3VPN architecture with MP-BGP, automatic IPsec failover, and pfSense firewall integration.
 
 # 🚀 MPLS VPN + IPsec Failover + pfSense Firewall  
@@ -167,12 +177,3 @@ This project is licensed under the **GNU 3.0 Licence**.
 Below is a collection of **ASCII diagrams**, **SVG banner designs**, and **GitHub badges** you can paste into your README.
 
 ---
-
-
-![Cisco](https://img.shields.io/badge/Cisco-IOS%20Router-1a73e8?style=for-the-badge&logo=cisco)
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-283593?style=for-the-badge&logo=pfsense)
-![GNS3](https://img.shields.io/badge/GNS3-Network%20Simulation-FF6F00?style=for-the-badge&logo=gns3)
-![MPLS](https://img.shields.io/badge/MPLS-L3VPN-6f42c1?style=for-the-badge)
-![IPsec](https://img.shields.io/badge/IPsec-GRE%20Tunnel-198754?style=for-the-badge)
-![BGP](https://img.shields.io/badge/BGP-MP--BGP-e83e8c?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-dd4814?style=for-the-badge&logo=ubuntu)
